@@ -6,7 +6,7 @@ This info details how to create bootable USB flash drive installers for macOS al
 pdanford - July 2020
 
 ---
-1. Format a USB 8GB flash drive as Mac OS Extended (Journaled) named **UNTITLED**.
+1. Format a USB 8GB (16GB for Catalina) flash drive as Mac OS Extended (Journaled) named **UNTITLED**.
 2. cd to the directory where your macOS installer app is located.
 3. Use one of the commands below to create the desired bootable USB flash drive installer.
 
